@@ -1,0 +1,121 @@
+sub_id,branch,branch_short,branch_id,subject_name,sem,common_name
+,Electronics Engineering,EE,1,Discrete electronics,3,sem1_sub1
+,Electronics Engineering,EE,1,Digital logic circuits,3,sem1_sub2
+,Electronics Engineering,EE,1,Engineering maths,3,sem1_sub3
+,Electronics Engineering,EE,1,Environment Studies,3,sem1_sub4
+,Electronics Engineering,EE,1,Electronics measuring instrumentation,3,sem1_sub5
+,Electronics Engineering,EE,1,Electrical network theory,3,sem1_sub6
+,Electronics Engineering,EE,1,Discrete electronics Lab,3,sem1_sub7
+,Electronics Engineering,EE,1,Digital logic circuits Lab,3,sem1_sub8
+,Electronics Engineering,EE,1,Electronics measuring instrumentation Lab,3,sem1_sub9
+,Electronics Engineering,EE,1,Electrical network theory Tutorial,3,sem1_sub10
+,Electronics Engineering,EE,1,Analog Ciruits,4,sem2_sub1
+,Electronics Engineering,EE,1,Computer architecture organization,4,sem2_sub2
+,Electronics Engineering,EE,1,Electromagnetic field theory,4,sem2_sub3
+,Electronics Engineering,EE,1,Linear method and algebra,4,sem2_sub4
+,Electronics Engineering,EE,1,Signal and systems,4,sem2_sub5
+,Electronics Engineering,EE,1,Statistic theory of communications,4,sem2_sub6
+,Electronics Engineering,EE,1,Analog Ciruits Lab,4,sem2_sub7
+,Electronics Engineering,EE,1,Electromagnetic field theory Tutorial,4,sem2_sub8
+,Electronics Engineering,EE,1,Numerical methos Lab,4,sem2_sub9
+,Electronics Engineering,EE,1,Signal and systems Tutorial,4,sem2_sub10
+,Electronics Engineering,EE,1,Antenna Theory,5,sem3_sub1
+,Electronics Engineering,EE,1,Communication Skills,5,sem3_sub2
+,Electronics Engineering,EE,1,Control systems,5,sem3_sub3
+,Electronics Engineering,EE,1,Filter Theory,5,sem3_sub4
+,Electronics Engineering,EE,1,Microprocessor,5,sem3_sub5
+,Electronics Engineering,EE,1,Principal of Communication,5,sem3_sub6
+,Electronics Engineering,EE,1,Antenna Theory Lab,5,sem3_sub7
+,Electronics Engineering,EE,1,Filter Theory Lab,5,sem3_sub8
+,Electronics Engineering,EE,1,Principal of Communication Lab,5,sem3_sub9
+,Electronics Engineering,EE,1,Control systems Lab,5,sem3_sub10
+,Electronics and Communiation Engineering,ENC,2,Discrete electronics,3,sem1_sub1
+,Electronics and Communiation Engineering,ENC,2,Digital logic circuits,3,sem1_sub2
+,Electronics and Communiation Engineering,ENC,2,Engineering maths,3,sem1_sub3
+,Electronics and Communiation Engineering,ENC,2,Environment Studies,3,sem1_sub4
+,Electronics and Communiation Engineering,ENC,2,Electronics measuring instrumentation,3,sem1_sub5
+,Electronics and Communiation Engineering,ENC,2,Electrical network theory,3,sem1_sub6
+,Electronics and Communiation Engineering,ENC,2,Discrete electronics Lab,3,sem1_sub7
+,Electronics and Communiation Engineering,ENC,2,Digital logic circuits Lab,3,sem1_sub8
+,Electronics and Communiation Engineering,ENC,2,Electronics measuring instrumentation Lab,3,sem1_sub9
+,Electronics and Communiation Engineering,ENC,2,Electrical network theory Tutorial,3,sem1_sub10
+,Electronics and Communiation Engineering,ENC,2,Analog Ciruits,4,sem2_sub1
+,Electronics and Communiation Engineering,ENC,2,Computer architecture organization,4,sem2_sub2
+,Electronics and Communiation Engineering,ENC,2,Electromagnetic field theory,4,sem2_sub3
+,Electronics and Communiation Engineering,ENC,2,Linear method and algebra,4,sem2_sub4
+,Electronics and Communiation Engineering,ENC,2,Signal and systems,4,sem2_sub5
+,Electronics and Communiation Engineering,ENC,2,Statistic theory of communications,4,sem2_sub6
+,Electronics and Communiation Engineering,ENC,2,Analog Ciruits Lab,4,sem2_sub7
+,Electronics and Communiation Engineering,ENC,2,Electromagnetic field theory Tutorial,4,sem2_sub8
+,Electronics and Communiation Engineering,ENC,2,Numerical methos Lab,4,sem2_sub9
+,Electronics and Communiation Engineering,ENC,2,Signal and systems Tutorial,4,sem2_sub10
+,Electronics and Communiation Engineering,ENC,2,Antenna Theory,5,sem3_sub1
+,Electronics and Communiation Engineering,ENC,2,Communication Skills,5,sem3_sub2
+,Electronics and Communiation Engineering,ENC,2,Control systems,5,sem3_sub3
+,Electronics and Communiation Engineering,ENC,2,Filter Theory,5,sem3_sub4
+,Electronics and Communiation Engineering,ENC,2,Microprocessor,5,sem3_sub5
+,Electronics and Communiation Engineering,ENC,2,Principal of Communication,5,sem3_sub6
+,Electronics and Communiation Engineering,ENC,2,Antenna Theory Lab,5,sem3_sub7
+,Electronics and Communiation Engineering,ENC,2,Filter Theory Lab,5,sem3_sub8
+,Electronics and Communiation Engineering,ENC,2,Principal of Communication Lab,5,sem3_sub9
+,Electronics and Communiation Engineering,ENC,2,Control systems Lab,5,sem3_sub10
+,Information technology,IT,3,Computer oriented Numerical methods,3,sem1_sub1
+,Information technology,IT,3,Digital logic circuits,3,sem1_sub2
+,Information technology,IT,3,Discrete Structure,3,sem1_sub3
+,Information technology,IT,3,Data Structure File Processing,3,sem1_sub4
+,Information technology,IT,3,Engineering maths 3,3,sem1_sub5
+,Information technology,IT,3,Principle of communication engineering,3,sem1_sub6
+,Information technology,IT,3,Computer oriented Numerical methods Lab,3,sem1_sub7
+,Information technology,IT,3,Digital logic circuits Lab,3,sem1_sub8
+,Information technology,IT,3,Data Structure File Processing Lab,3,sem1_sub9
+,Information technology,IT,3,Principle of communication engineering lab,3,sem1_sub10
+,Information technology,IT,3,Analysis of algorithms and complexity,4,sem2_sub1
+,Information technology,IT,3,Probability and random theory,4,sem2_sub2
+,Information technology,IT,3,Database Management System,4,sem2_sub3
+,Information technology,IT,3,Computer architecture orgnisation ,4,sem2_sub4
+,Information technology,IT,3,Object oriented Programming,4,sem2_sub5
+,Information technology,IT,3,Systems and Software,4,sem2_sub6
+,Information technology,IT,3,Analysis of algorithms and complexity Lab,4,sem2_sub7
+,Information technology,IT,3,Database Management System Lab ,4,sem2_sub8
+,Information technology,IT,3,Object oriented Programming Lab,4,sem2_sub9
+,Information technology,IT,3,Systems and Software lab,4,sem2_sub10
+,Information technology,IT,3,Artifitial Intelligence,5,sem3_sub1
+,Information technology,IT,3,Communication skills 2,5,sem3_sub2
+,Information technology,IT,3,Discrete time signal processing,5,sem3_sub3
+,Information technology,IT,3,Object oriented Method Design,5,sem3_sub4
+,Information technology,IT,3,Environment Studies,5,sem3_sub5
+,Information technology,IT,3,Microprocessor and microcontroller,5,sem3_sub6
+,Information technology,IT,3,Machine Learning,5,sem3_sub7
+,Information technology,IT,3,Discrete time signal processing Lab,5,sem3_sub8
+,Information technology,IT,3,Microprocessor and microcontroller Lab,5,sem3_sub9
+,Information technology,IT,3,UML with Jana,5,sem3_sub10
+,Computer science and technology,CST,4,Computer oriented Numerical methods,3,sem1_sub1
+,Computer science and technology,CST,4,Digital logic circuits,3,sem1_sub2
+,Computer science and technology,CST,4,Discrete Structure,3,sem1_sub3
+,Computer science and technology,CST,4,Data Structure File Processing,3,sem1_sub4
+,Computer science and technology,CST,4,Engineering maths 3,3,sem1_sub5
+,Computer science and technology,CST,4,Principle of communication engineering,3,sem1_sub6
+,Computer science and technology,CST,4,Computer oriented Numerical methods Lab,3,sem1_sub7
+,Computer science and technology,CST,4,Digital logic circuits Lab,3,sem1_sub8
+,Computer science and technology,CST,4,Data Structure File Processing Lab,3,sem1_sub9
+,Computer science and technology,CST,4,Principle of communication engineering lab,3,sem1_sub10
+,Computer science and technology,CST,4,Analysis of algorithms and complexity,4,sem2_sub1
+,Computer science and technology,CST,4,Probability and random theory,4,sem2_sub2
+,Computer science and technology,CST,4,Database Management System,4,sem2_sub3
+,Computer science and technology,CST,4,Computer architecture orgnisation ,4,sem2_sub4
+,Computer science and technology,CST,4,Object oriented Programming,4,sem2_sub5
+,Computer science and technology,CST,4,Operationg systems,4,sem2_sub6
+,Computer science and technology,CST,4,Analysis of algorithms and complexity Lab,4,sem2_sub7
+,Computer science and technology,CST,4,Database Management System Lab ,4,sem2_sub8
+,Computer science and technology,CST,4,Object oriented Programming Lab,4,sem2_sub9
+,Computer science and technology,CST,4,Operationg systems lab,4,sem2_sub10
+,Computer science and technology,CST,4,Computer networks,5,sem3_sub1
+,Computer science and technology,CST,4,Communication skills 2,5,sem3_sub2
+,Computer science and technology,CST,4,Discrete time signal processing,5,sem3_sub3
+,Computer science and technology,CST,4,Object oriented Method Design,5,sem3_sub4
+,Computer science and technology,CST,4,Environment Studies,5,sem3_sub5
+,Computer science and technology,CST,4,Microprocessor and microcontroller,5,sem3_sub6
+,Computer science and technology,CST,4,Computer networks lab,5,sem3_sub7
+,Computer science and technology,CST,4,Discrete time signal processing Lab,5,sem3_sub8
+,Computer science and technology,CST,4,Microprocessor and microcontroller Lab,5,sem3_sub9
+,Computer science and technology,CST,4,UML with Jana,5,sem3_sub10
